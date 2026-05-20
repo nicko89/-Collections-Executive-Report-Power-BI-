@@ -49,8 +49,6 @@ Segmentación detallada de la cartera por antigüedad:
 ```text
 collections-analysis-dashboard-pbi/
 │
-├── Data_Source/
-│   └── Collections_Raw_Data.xlsx   # Datos fuente (Anonimizados)
 ├── Screenshots/
 │   ├── main_dashboard.png          # Vista general ejecutiva
 │   └── aging_analysis.png          # Vista de maduración de cartera
