@@ -56,7 +56,17 @@ collections-analysis-dashboard-pbi/
 │   └── aging_analysis.png          # Vista de maduración de cartera
 ├── Collections_Report.pbix         # Archivo de Power BI
 └── README.md                       # Documentación del proyecto
-´´´
+```
+
+⚙️ Cómo visualizar este proyecto
+Descarga el archivo: Obtén el archivo Collections_Report.pbix.
+
+Software: Abre el archivo utilizando Power BI Desktop (última versión recomendada).
+
+Interacción: Utiliza los segmentadores (Slicers) en la parte izquierda para filtrar por mes, región o analista de cobranza.
+
+🔒 Privacidad y Seguridad
+Toda la información presentada en este reporte (nombres de clientes, montos de facturación y correos electrónicos) ha sido enmascarada y anonimizada. Los datos son ficticios y se utilizan exclusivamente para demostrar habilidades técnicas de visualización y análisis financiero.
 
 🧑‍💻 Autor
 Desarrollado por: Nicolás Cabral
