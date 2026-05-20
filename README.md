@@ -21,14 +21,14 @@ Una visión de alto nivel con los indicadores financieros más importantes:
 * **Collection Efficiency Index (CEI):** Porcentaje de recaudo real vs. el proyectado.
 * **DSO Actual vs. Objetivo:** Seguimiento del tiempo promedio de cobro.
 
-![Main Dashboard](Screenshots/main_dashboard.png)
+![Main Dashboard](Screenshots/Main_Dashboard.png)
 
 ### 2. Aging Buckets Analysis
 Segmentación detallada de la cartera por antigüedad:
 * Análisis por rangos: Current, 1-30, 31-60, 61-90 y +90 días.
 * Capacidad de *Drill-down* para ver qué facturas específicas componen cada rango de riesgo.
 
-![Aging Analysis](Screenshots/aging_analysis.png)
+![Aging Analysis](Screenshots/Aging_Analisys.png)
 
 ### 3. Regional & Customer Performance
 * Mapas interactivos para analizar el recaudo por regiones/estados en EE. UU.
